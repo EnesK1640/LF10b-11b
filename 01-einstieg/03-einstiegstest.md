@@ -115,6 +115,11 @@ c)  Geben Sie für den folgenden Netzplan die statischen Routen für
 d)  Geben Sie jeweils mindestens drei technische Anforderungen an eine
     Firewall, einen Server und ein NAS an.
 
+<!-- -->
+
+e)  Entscheiden Sie, welche der folgenden Funktionen in einen
+    SOHO-Router vorzufinden sind.
+
     1.  DSL-Modem
     2.  Analog-Modem
     3.  LWL-Modem
