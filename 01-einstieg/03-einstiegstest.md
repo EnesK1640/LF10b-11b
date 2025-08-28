@@ -1,4 +1,5 @@
 ---
+css: ../css/style.css
 date: Schuljahr 2025/2026
 lang: de-DE
 subtitle: Lernfeld 10b -- Serverdienste bereitstellen und
@@ -6,14 +7,15 @@ subtitle: Lernfeld 10b -- Serverdienste bereitstellen und
 title: Einstiegstest LF10b
 ---
 
-Überprüfen Sie Ihr Grundlagenwissen aus dem Lernfeld 9 „Netzwerke und
-Dienste bereitstellen".
+Überprüfen Sie Ihr Grundlagenwissen aus dem Lernfeld 9 »Netzwerke und
+Dienste bereitstellen«.
 
 Bearbeiten Sie die folgenden Teilaufgaben.
 
-## Aufgabe 1
+### Aufgabe 1
 
-a)  Bringen Sie die folgenden Prozessschritte in eine sachlogische
+a)  ::: {.subtask}
+    Bringen Sie die folgenden Prozessschritte in eine sachlogische
     Reihenfolge.
 
     - Ziele, Migrationsstrategie
@@ -25,10 +27,12 @@ a)  Bringen Sie die folgenden Prozessschritte in eine sachlogische
     - Betrieb
 
     - Umsetzung
+    :::
 
 <!-- -->
 
-b)  Beschreiben Sie die folgenden Aspekte des Projektmanagements in
+b)  ::: {.subtask}
+    Beschreiben Sie die folgenden Aspekte des Projektmanagements in
     eigenen Worten.
 
     - Aufwandsabschätzung
@@ -38,36 +42,48 @@ b)  Beschreiben Sie die folgenden Aspekte des Projektmanagements in
     - Projektstrukturplan
 
     - Stakeholder-Analyse
+    :::
 
 <!-- -->
 
-c)  Geben Sie je zwei Aspekte an, die in einem Lasten- bzw.
+c)  ::: {.subtask}
+    Geben Sie je zwei Aspekte an, die in einem Lasten- bzw.
     Pflichtenheft enthalten sind.
+    :::
 
-## Aufgabe 2
+### Aufgabe 2
 
 Entscheiden Sie, ob die folgenden Aussagen richtig oder falsch sind.
 
-a)  DevOps steht für Entwicklung und Betrieb eines Unternehmensbereichs.
+a)  ::: {.subtask}
+    DevOps steht für Entwicklung und Betrieb eines Unternehmensbereichs.
+    :::
 
 <!-- -->
 
-b)  Unter CI versteht man kontinuierliche Identifikation von neuen
+b)  ::: {.subtask}
+    Unter CI versteht man kontinuierliche Identifikation von neuen
     Anforderungen an einen Unternehmensbereich.
+    :::
 
 <!-- -->
 
-c)  Der Bereich DevOps kann als Schnittmenge der Bereiche Entwicklung,
+c)  ::: {.subtask}
+    Der Bereich DevOps kann als Schnittmenge der Bereiche Entwicklung,
     Betrieb und Buchhaltung betrachtet werden.
+    :::
 
 <!-- -->
 
-d)  Der Bereich CD umfasst das Paketxeren Freigeben, Konftguneren und
+d)  ::: {.subtask}
+    Der Bereich CD umfasst das Paketxeren Freigeben, Konftguneren und
     Überwachen einer Anwendungssoftware für die Kunden.
+    :::
 
-## Aufgabe 3
+### Aufgabe 3
 
-a)  Ordnen Sie der Ethernet-Leitung die entsprechenden Bereiche 1-5 zu.
+a)  ::: {.subtask}
+    Ordnen Sie der Ethernet-Leitung die entsprechenden Bereiche 1-5 zu.
     Geben Sie weiterhin die Leitungsart (Kurzschreibweise) an.
 
     ![](images/lan-tp-kabel-querschnitt.png){width="50%"}
@@ -81,10 +97,12 @@ a)  Ordnen Sie der Ethernet-Leitung die entsprechenden Bereiche 1-5 zu.
     |        |                |
 
     Leitungsart:
+    :::
 
 <!-- -->
 
-b)  Es sollen die unterschiedlichen Adressierungsarten in einem Netzwerk
+b)  ::: {.subtask}
+    Es sollen die unterschiedlichen Adressierungsarten in einem Netzwerk
     betrachtet werden. Ergänzen Sie die folgende Tabelle zu den
     häufigsten Adressarten.
 
@@ -94,10 +112,12 @@ b)  Es sollen die unterschiedlichen Adressierungsarten in einem Netzwerk
     |  | MAC |  |  |
     | 3 |  |  |  |
     |  |  | 32 Bit |  |
+    :::
 
 <!-- -->
 
-c)  Geben Sie für den folgenden Netzplan die statischen Routen für
+c)  ::: {.subtask}
+    Geben Sie für den folgenden Netzplan die statischen Routen für
     Router R1 an, sodass dieser alle Netze erreichen kann.
 
     ![](images/lan-netzwerkplan.png)
@@ -109,15 +129,38 @@ c)  Geben Sie für den folgenden Netzplan die statischen Routen für
     | 10.0.30.0/24 |          |               |
     | 10.0.40.0/24 |          |               |
     | 10.0.50.0/24 |          |               |
+    :::
 
 <!-- -->
 
-d)  Geben Sie jeweils mindestens drei technische Anforderungen an eine
+d)  ::: {.subtask}
+    Geben Sie für die folgenden Protokolle jeweils kurz deren Aufgaben
+    innerhalb eines Netzes an.
+
+    - DNS
+
+    - DHCP
+
+    - SSH
+
+    - SMB
+
+    - IMAP
+
+    - SNMP
+    :::
+
+### Aufgabe 4
+
+a)  ::: {.subtask}
+    Geben Sie jeweils mindestens drei technische Anforderungen an eine
     Firewall, einen Server und ein NAS an.
+    :::
 
 <!-- -->
 
-e)  Entscheiden Sie, welche der folgenden Funktionen in einen
+b)  ::: {.subtask}
+    Entscheiden Sie, welche der folgenden Funktionen in einen
     SOHO-Router vorzufinden sind.
 
     1.  DSL-Modem
@@ -129,8 +172,9 @@ e)  Entscheiden Sie, welche der folgenden Funktionen in einen
     7.  WLAN-Accesspoint
     8.  Repeater
     9.  Firewall
+    :::
 
-## Aufgabe 4
+### Aufgabe 5
 
 Berechnen Sie den Bezugspreis für einen Server mithilfe der gegebenen
 Werte.
@@ -143,7 +187,7 @@ Skonto: 2 %
 
 Transportkosten: 5000,00 € pro 100 Stück
 
-## Aufgabe 5
+### Aufgabe 6
 
 Geben Sie die Aufgabengebiete der folgenden Programme an.
 
@@ -163,7 +207,7 @@ ip (Linux): Konfiguration und Anzeige der IP-Adressen und Routen
 
 - tracert/traceroute
 
-## Aufgabe 6
+### Aufgabe 7
 
 Erklären Sie kurz die Unterschiede zwischen Docker, VirtualBox und
 Proxmox.
