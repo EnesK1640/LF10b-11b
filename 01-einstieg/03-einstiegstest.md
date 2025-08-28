@@ -14,8 +14,7 @@ Bearbeiten Sie die folgenden Teilaufgaben.
 
 ### Aufgabe 1
 
-a)  ::: {.subtask}
-    Bringen Sie die folgenden Prozessschritte in eine sachlogische
+a)  Bringen Sie die folgenden Prozessschritte in eine sachlogische
     Reihenfolge.
 
     - Ziele, Migrationsstrategie
@@ -27,12 +26,10 @@ a)  ::: {.subtask}
     - Betrieb
 
     - Umsetzung
-    :::
 
 <!-- -->
 
-b)  ::: {.subtask}
-    Beschreiben Sie die folgenden Aspekte des Projektmanagements in
+b)  Beschreiben Sie die folgenden Aspekte des Projektmanagements in
     eigenen Worten.
 
     - Aufwandsabschätzung
@@ -42,48 +39,36 @@ b)  ::: {.subtask}
     - Projektstrukturplan
 
     - Stakeholder-Analyse
-    :::
 
 <!-- -->
 
-c)  ::: {.subtask}
-    Geben Sie je zwei Aspekte an, die in einem Lasten- bzw.
+c)  Geben Sie je zwei Aspekte an, die in einem Lasten- bzw.
     Pflichtenheft enthalten sind.
-    :::
 
 ### Aufgabe 2
 
 Entscheiden Sie, ob die folgenden Aussagen richtig oder falsch sind.
 
-a)  ::: {.subtask}
-    DevOps steht für Entwicklung und Betrieb eines Unternehmensbereichs.
-    :::
+a)  DevOps steht für Entwicklung und Betrieb eines Unternehmensbereichs.
 
 <!-- -->
 
-b)  ::: {.subtask}
-    Unter CI versteht man kontinuierliche Identifikation von neuen
+b)  Unter CI versteht man kontinuierliche Identifikation von neuen
     Anforderungen an einen Unternehmensbereich.
-    :::
 
 <!-- -->
 
-c)  ::: {.subtask}
-    Der Bereich DevOps kann als Schnittmenge der Bereiche Entwicklung,
+c)  Der Bereich DevOps kann als Schnittmenge der Bereiche Entwicklung,
     Betrieb und Buchhaltung betrachtet werden.
-    :::
 
 <!-- -->
 
-d)  ::: {.subtask}
-    Der Bereich CD umfasst das Paketxeren Freigeben, Konftguneren und
+d)  Der Bereich CD umfasst das Paketxeren Freigeben, Konftguneren und
     Überwachen einer Anwendungssoftware für die Kunden.
-    :::
 
 ### Aufgabe 3
 
-a)  ::: {.subtask}
-    Ordnen Sie der Ethernet-Leitung die entsprechenden Bereiche 1-5 zu.
+a)  Ordnen Sie der Ethernet-Leitung die entsprechenden Bereiche 1-5 zu.
     Geben Sie weiterhin die Leitungsart (Kurzschreibweise) an.
 
     ![](images/lan-tp-kabel-querschnitt.png){width="50%"}
@@ -97,12 +82,10 @@ a)  ::: {.subtask}
     |        |                |
 
     Leitungsart:
-    :::
 
 <!-- -->
 
-b)  ::: {.subtask}
-    Es sollen die unterschiedlichen Adressierungsarten in einem Netzwerk
+b)  Es sollen die unterschiedlichen Adressierungsarten in einem Netzwerk
     betrachtet werden. Ergänzen Sie die folgende Tabelle zu den
     häufigsten Adressarten.
 
@@ -112,12 +95,10 @@ b)  ::: {.subtask}
     |  | MAC |  |  |
     | 3 |  |  |  |
     |  |  | 32 Bit |  |
-    :::
 
 <!-- -->
 
-c)  ::: {.subtask}
-    Geben Sie für den folgenden Netzplan die statischen Routen für
+c)  Geben Sie für den folgenden Netzplan die statischen Routen für
     Router R1 an, sodass dieser alle Netze erreichen kann.
 
     ![](images/lan-netzwerkplan.png)
@@ -129,12 +110,10 @@ c)  ::: {.subtask}
     | 10.0.30.0/24 |          |               |
     | 10.0.40.0/24 |          |               |
     | 10.0.50.0/24 |          |               |
-    :::
 
 <!-- -->
 
-d)  ::: {.subtask}
-    Geben Sie für die folgenden Protokolle jeweils kurz deren Aufgaben
+d)  Geben Sie für die folgenden Protokolle jeweils kurz deren Aufgaben
     innerhalb eines Netzes an.
 
     - DNS
@@ -148,19 +127,15 @@ d)  ::: {.subtask}
     - IMAP
 
     - SNMP
-    :::
 
 ### Aufgabe 4
 
-a)  ::: {.subtask}
-    Geben Sie jeweils mindestens drei technische Anforderungen an eine
+a)  Geben Sie jeweils mindestens drei technische Anforderungen an eine
     Firewall, einen Server und ein NAS an.
-    :::
 
 <!-- -->
 
-b)  ::: {.subtask}
-    Entscheiden Sie, welche der folgenden Funktionen in einen
+b)  Entscheiden Sie, welche der folgenden Funktionen in einen
     SOHO-Router vorzufinden sind.
 
     1.  DSL-Modem
@@ -172,7 +147,6 @@ b)  ::: {.subtask}
     7.  WLAN-Accesspoint
     8.  Repeater
     9.  Firewall
-    :::
 
 ### Aufgabe 5
 
