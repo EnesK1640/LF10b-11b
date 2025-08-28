@@ -135,7 +135,7 @@ a)  Geben Sie jeweils mindestens drei technische Anforderungen an eine
 
 <!-- -->
 
-b)  Entscheiden Sie, welche der folgenden Funktionen in einen
+b)  Entscheiden Sie, welche der folgenden Funktionen in einem
     SOHO-Router vorzufinden sind.
 
     1.  DSL-Modem
