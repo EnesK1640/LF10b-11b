@@ -1,4 +1,5 @@
 ---
+css: ../css/style.css
 date: Schuljahr 2025/2026
 lang: de-DE
 subtitle: Lernfeld 10b -- Serverdienste bereitstellen und
@@ -6,12 +7,12 @@ subtitle: Lernfeld 10b -- Serverdienste bereitstellen und
 title: Einstiegstest LF10b
 ---
 
-Überprüfen Sie Ihr Grundlagenwissen aus dem Lernfeld 9 „Netzwerke und
-Dienste bereitstellen".
+Überprüfen Sie Ihr Grundlagenwissen aus dem Lernfeld 9 »Netzwerke und
+Dienste bereitstellen«.
 
 Bearbeiten Sie die folgenden Teilaufgaben.
 
-## Aufgabe 1
+### Aufgabe 1
 
 a)  Bringen Sie die folgenden Prozessschritte in eine sachlogische
     Reihenfolge.
@@ -62,12 +63,16 @@ b)  Beschreiben Sie die folgenden Aspekte des Projektmanagements in
 
 c)  Geben Sie je zwei Aspekte an, die in einem Lasten- bzw.
     Pflichtenheft enthalten sind.
+
 :::
     Lastenheft: Anforderungen des Auftraggebers, Zielsetzung, Einsatzbereich.
 
     Pflichtenheft: Technische Umsetzung, detaillierte Lösungsbeschreibung, Zeit-/Ressourcenplanung.
 :::
+
 ## Aufgabe 2
+=======
+### Aufgabe 2
 
 Entscheiden Sie, ob die folgenden Aussagen richtig oder falsch sind.
 
@@ -114,7 +119,7 @@ CD umfasst Paketieren, Freigeben, Konfigurieren und Überwachen. → Richtig (CD
 
     d) CD umfasst Paketieren, Freigeben, Konfigurieren und Überwachen. → Richtig (CD = Continuous Delivery/Deployment).
 
-## Aufgabe 3
+### Aufgabe 3
 
 a)  Ordnen Sie der Ethernet-Leitung die entsprechenden Bereiche 1-5 zu.
     Geben Sie weiterhin die Leitungsart (Kurzschreibweise) an.
@@ -185,8 +190,30 @@ Ziel	Next Hop	Schnittstelle
 :::
 <!-- -->
 
-d)  Geben Sie jeweils mindestens drei technische Anforderungen an eine
+d)  Geben Sie für die folgenden Protokolle jeweils kurz deren Aufgaben
+    innerhalb eines Netzes an.
+
+    - DNS
+
+    - DHCP
+
+    - SSH
+
+    - SMB
+
+    - IMAP
+
+    - SNMP
+
+### Aufgabe 4
+
+a)  Geben Sie jeweils mindestens drei technische Anforderungen an eine
     Firewall, einen Server und ein NAS an.
+
+<!-- -->
+
+b)  Entscheiden Sie, welche der folgenden Funktionen in einem
+    SOHO-Router vorzufinden sind.
 
     1.  DSL-Modem
     2.  Analog-Modem
@@ -198,8 +225,6 @@ d)  Geben Sie jeweils mindestens drei technische Anforderungen an eine
     8.  Repeater
     9.  Firewall
 
-    Firewall: Paketfilter, Stateful Inspection, Protokollierung, VPN-Support.
-
 :::
 Server: Ausreichende CPU/RAM, Redundanz, Virtualisierungsmöglichkeit, Ausfallsicherheit.
 
@@ -207,6 +232,9 @@ NAS: RAID-Unterstützung, Netzwerkanbindung (Gigabit+), Benutzer-/Rechteverwaltu
 :::
 
 ## Aufgabe 4
+=======
+### Aufgabe 5
+
 
 Berechnen Sie den Bezugspreis für einen Server mithilfe der gegebenen
 Werte.
@@ -218,6 +246,7 @@ Lieferrabatt: 3 %
 Skonto: 2 %
 
 Transportkosten: 5000,00 € pro 100 Stück
+
 
 :::
 Listenpreis: 5.000,00 €
@@ -232,6 +261,9 @@ Bezugspreis: 4.803,00 €
 :::
 
 ## Aufgabe 5
+=======
+### Aufgabe 6
+
 
 Geben Sie die Aufgabengebiete der folgenden Programme an.
 
@@ -251,6 +283,7 @@ ip (Linux): Konfiguration und Anzeige der IP-Adressen und Routen
 
 - tracert/traceroute
 
+
 :::
 bmon: Bandbreitenmonitor (Netzlast in Echtzeit).
 
@@ -266,6 +299,9 @@ tracert/traceroute: Weg der Pakete durch das Netz anzeigen.
 :::
 
 ## Aufgabe 6
+=======
+### Aufgabe 7
+
 
 Erklären Sie kurz die Unterschiede zwischen Docker, VirtualBox und
 Proxmox.
