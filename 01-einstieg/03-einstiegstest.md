@@ -103,7 +103,7 @@ DevOps = Schnittmenge von Entwicklung, Betrieb und Buchhaltung. → Falsch (Schn
 
 <!-- -->
 
-d)  Der Bereich CD umfasst das Paketxeren Freigeben, Konftguneren und
+d)  Der Bereich CD umfasst das Paketieren Freigeben, Konfigurieren und
     Überwachen einer Anwendungssoftware für die Kunden.
 :::
 Richtig
@@ -267,9 +267,8 @@ Bezugspreis: 4.803,00 €
 
 Geben Sie die Aufgabengebiete der folgenden Programme an.
 
-Beispiel:
-
-ip (Linux): Konfiguration und Anzeige der IP-Adressen und Routen
+Beispiel: ip (Linux): Konfiguration und Anzeige der IP-Adressen und
+Routen
 
 - bmon
 
