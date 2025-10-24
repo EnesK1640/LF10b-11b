@@ -209,7 +209,11 @@ d)  Geben Sie für die folgenden Protokolle jeweils kurz deren Aufgaben
 
 a)  Geben Sie jeweils mindestens drei technische Anforderungen an eine
     Firewall, einen Server und ein NAS an.
+:::
+Server: Ausreichende CPU/RAM, Redundanz, Virtualisierungsmöglichkeit, Ausfallsicherheit.
 
+NAS: RAID-Unterstützung, Netzwerkanbindung (Gigabit+), Benutzer-/Rechteverwaltung, Datensicherung.
+:::
 <!-- -->
 
 b)  Entscheiden Sie, welche der folgenden Funktionen in einem
@@ -225,11 +229,7 @@ b)  Entscheiden Sie, welche der folgenden Funktionen in einem
     8.  Repeater
     9.  Firewall
 
-:::
-Server: Ausreichende CPU/RAM, Redundanz, Virtualisierungsmöglichkeit, Ausfallsicherheit.
 
-NAS: RAID-Unterstützung, Netzwerkanbindung (Gigabit+), Benutzer-/Rechteverwaltung, Datensicherung.
-:::
 
 ## Aufgabe 4
 =======
