@@ -206,7 +206,7 @@ Server S1 aufbaut. Ergänzen Sie die Tabelle um die fehlenden Angaben.
 | Anfrage    | 192.168.22.103   | 35644      |                 |           |
 |            |                  |            |                 |           |
 
-::: {.sol}
+::: {.solution}
 | Verbindung | Quell-IP-Adresse | Quell-Port | Ziel-IP-Adresse | Ziel-Port |
 |------------|------------------|------------|-----------------|-----------|
 | Anfrage    | 192.168.22.103   | 35644      | 192.168.22.12   | 22        |
